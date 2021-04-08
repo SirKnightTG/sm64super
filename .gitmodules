@@ -1,0 +1,3 @@
+[submodule "FlyCube"]
+	path = FlyCube
+	url = https://github.com/andrejnau/FlyCube
